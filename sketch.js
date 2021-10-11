@@ -13,7 +13,7 @@ function draw() {
   fill(255);
   textStyle(BOLD);
   textSize(140);
-  text("p5*", 60, 250);
+  text("p5*", 61, 250);
 }
 
 // This Redraws the Canvas when resized
