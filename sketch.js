@@ -7,7 +7,7 @@ function setup() {
 
 function draw() {
   // Put drawings here
-  fill(234, 31, 81);
+  fill(234, 30, 81);
   noStroke();
   rectangle(50, 50, 250, 250);
   fill(255);
